@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/88554/edc6e85464fe4da2b34004e94691dca6
+url: http://rpubs.com/mcj0014/88554
+when: 1434906338.06023
